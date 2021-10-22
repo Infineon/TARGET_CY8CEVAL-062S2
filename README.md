@@ -2,7 +2,7 @@
 
 ## Overview
 
-The CY8CEVAL-062S2 PSoC 62S2 Evaluation Kit enables you to evaluate and develop applications using PSoC 62 MCU. The PSoC 62S2 evaluation kit features an M.2 interface that enables you to connect the supported M.2 radio cards based on AIROC Wi-Fi/Bluetooth combo devices. It comes with industry-leading CAPSENSE for touch buttons and slider, on-board debugger/programmer with KitProg3, microSD card interface, 512-Mb Quad-SPI NOR flash, PDM-PCM microphone interface, mikroBUS add-on board interface for peripheral expansion, OPTIGA Trust M device.
+The CY8CEVAL-062S2 PSoC 62S2 Evaluation Kit enables you to evaluate and develop applications using PSoC 62 MCU. The PSoC 62S2 evaluation kit features an M.2 interface that enables you to connect the supported M.2 radio cards based on AIROC Wi-Fi/Bluetooth combo devices. It comes with industry-leading CapSense for touch buttons and slider, on-board debugger/programmer with KitProg3, microSD card interface, 512-Mb Quad-SPI NOR flash, PDM-PCM microphone interface, mikroBUS add-on board interface for peripheral expansion, OPTIGA Trust M device.
     
 **Note:**
 This BSP does not support Wi-Fi/BT Connectivity examples. To run Wi-Fi/Bluetooth Connectivity examples on this kit, choose a BSP with the appropriate connectivity M.2 module.
@@ -19,7 +19,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 * Dedicated M.2 interface to connect with M.2 radio modules based on AIROC Wi-Fi/Bluetooth combo devices.
 * mikroBUS add-on board interface for peripheral expansion.
 * Delivers dual-cores, with a 150-MHz Arm Cortex-M4 as the primary application processor and a 100-MHz Arm Cortex-M0+ as the secondary processor for low-power operations.
-* Supports Full-Speed USB, capacitive-sensing with CAPSENSE, a PDM-PCM digital microphone interface, a Quad-SPI interface, 13 serial communication blocks, 7 programmable analog blocks, and 56 programmable digital blocks.
+* Supports Full-Speed USB, capacitive-sensing with CapSense, a PDM-PCM digital microphone interface, a Quad-SPI interface, 13 serial communication blocks, 7 programmable analog blocks, and 56 programmable digital blocks.
 
 ### Kit Contents:
 
@@ -71,7 +71,7 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 * [CY8CEVAL-062S2 Documentation](https://www.cypress.com/documentation/development-kitsboards/psoc-62s2-evaluation-kit-cy8ceval-062s2)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
-* [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)
+* [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
 
 [api]: https://infineon.github.io/TARGET_CY8CEVAL-062S2/html/modules.html
 [settings]: https://infineon.github.io/TARGET_CY8CEVAL-062S2/html/md_bsp_settings.html
