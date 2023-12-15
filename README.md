@@ -23,7 +23,6 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 ### Kit Contents:
 
 * PSoC™ 62S2 Evaluation Board
-* Laird Connectivity Sterling-LWB5+ Wi-Fi/Bluetooth M.2 radio module
 * USB Type-A to Micro-B cable
 * Four jumper wires (4 inches each)
 * Two jumper wires (5 inches each)
